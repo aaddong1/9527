@@ -25,9 +25,9 @@ DOMAIN-SUFFIX,emby3.mcjoker.xyz
 DOMAIN-SUFFIX,emby.cbcb.lol
 
 #以下抄的 https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Emby.list
-# 基于 https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list 修改
-#
-# 2024-02-10 17:34
+
+# 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
+# 最后更新时间： 2024-02-15 21:49
 
 
 ##### A #####
@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,porn.aca.best
 ##### C #####
 
 # ccemby
+DOMAIN,cc.coemn.com
 DOMAIN-SUFFIX,cc.ccemby.tk
 DOMAIN-SUFFIX,carryz.net
 
@@ -132,7 +133,7 @@ DOMAIN-SUFFIX,ntrrr.am.sb
 DOMAIN-SUFFIX,emby.nexitally.com
 
 # Nebula
-DOMAIN-SUFFIX,direct.nebula-emby.com
+DOMAIN-SUFFIX,nebula-emby.com
 
 ##### O #####
 
@@ -193,6 +194,9 @@ DOMAIN-SUFFIX,post.cn2gias.uk
 
 # TreeDiagram
 DOMAIN-SUFFIX,123456.al
+
+# 太空人
+DOMAIN-SUFFIX,tkremby.xyz
 
 ##### U #####
 

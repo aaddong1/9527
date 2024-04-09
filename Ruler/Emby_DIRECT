@@ -6,9 +6,8 @@ DOMAIN-KEYWORD,809688.xyz
 DOMAIN-SUFFIX,peachmv.me
 #panda
 DOMAIN-SUFFIX,emby.at
-#vip
-DOMAIN-SUFFIX,wptv.ii00.cc
-DOMAIN-SUFFIX,wgtv.ii00.cc
+#pornemby vip
+DOMAIN-KEYWORD,ii00.cc
 #StarCat
 DOMAIN-SUFFIX,catlinks.co.uk
 #TeCar
@@ -25,3 +24,4 @@ DOMAIN-SUFFIX,film.ohhhh.org
 DOMAIN-SUFFIX,embyplus.org
 #蛋挞
 DOMAIN-SUFFIX,emby.eggtartcloud.shop
+DOMAIN-SUFFIX,vip3.jellyfin.asia

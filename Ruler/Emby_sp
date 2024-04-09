@@ -2,19 +2,10 @@
 
 # ntRRR
 DOMAIN-SUFFIX,ntrrr.top
-DOMAIN-SUFFIX,ntrrr.am.sb
-DOMAIN-SUFFIX,stream.ntrrr.top
-#ciji
-DOMAIN-KEYWORD,809688.xyz
 #琴鸟
 DOMAIN-KEYWORD,lyrebirdemby.com
-#蛋挞云机场服
-DOMAIN-SUFFIX,emby.eggtartcloud.shop
-DOMAIN-SUFFIX,vip3.jellyfin.asia
 #misty
 DOMAIN-SUFFIX,misty.cx
-#pornemby vip
-DOMAIN-KEYWORD,ii00.cc
 #叔服
 DOMAIN-SUFFIX,emby3.mcjoker.xyz
 #cbcb
@@ -23,5 +14,3 @@ DOMAIN-SUFFIX,emby.cbcb.lol
 DOMAIN-SUFFIX,cherrytv.one
 # 白浪兔
 DOMAIN-SUFFIX,emby.airpor.top
-#桃子
-DOMAIN-SUFFIX,peachmv.me

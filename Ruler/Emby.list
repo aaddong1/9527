@@ -6,21 +6,22 @@ DOMAIN-SUFFIX,emby.at
 DOMAIN-KEYWORD,809688.xyz
 #琴鸟
 DOMAIN-KEYWORD,direct.lyrebirdemby
-#MNE
-DOMAIN-SUFFIX,film.ohhhh.org
-#MICU Cloud Media
-DOMAIN-SUFFIX,tv.micu.hk
 #misty
 DOMAIN-SUFFIX,misty.cx
 #叔服
 DOMAIN-SUFFIX,emby3.mcjoker.xyz
 #cbcb
 DOMAIN-SUFFIX,emby.cbcb.lol
+#byg
+DOMAIN-SUFFIX,byg.955557.xyz
+#飞跃彩虹
+DOMAIN-SUFFIX,152.53.19.231
 
 #以下抄的 https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Emby.list
 
+
 # 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
-# 最后更新时间： 2024-02-15 21:49
+# 最后更新时间： 2024-03-01 22:44
 
 
 ##### A #####
@@ -119,6 +120,9 @@ DOMAIN-SUFFIX,emby.maying.club
 
 ##### N #####
 
+# ntRRR
+DOMAIN-SUFFIX,ntrrr.am.sb
+
 # nexitally
 DOMAIN-SUFFIX,emby.nexitally.com
 
@@ -141,6 +145,7 @@ DOMAIN-SUFFIX,pilipiliultra.com
 
 # pornemby
 DOMAIN-SUFFIX,pornemby.club
+DOMAIN-SUFFIX,ii00.cc
 
 # polo
 DOMAIN-SUFFIX,poloemby.xyz

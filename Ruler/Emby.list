@@ -4,8 +4,6 @@
 DOMAIN-SUFFIX,emby.at
 #ciji
 DOMAIN-KEYWORD,809688.xyz
-#琴鸟
-DOMAIN-KEYWORD,direct.lyrebirdemby
 #misty
 DOMAIN-SUFFIX,misty.cx
 #叔服
@@ -16,6 +14,20 @@ DOMAIN-SUFFIX,emby.cbcb.lol
 DOMAIN-SUFFIX,byg.955557.xyz
 #飞跃彩虹
 DOMAIN-SUFFIX,152.53.19.231
+# ntRRR
+DOMAIN-SUFFIX,ntrrr.top
+#琴鸟
+DOMAIN-KEYWORD,lyrebirdemby.com
+#misty
+DOMAIN-SUFFIX,misty.cx
+#叔服
+DOMAIN-SUFFIX,emby3.mcjoker.xyz
+#cbcb
+DOMAIN-SUFFIX,emby.cbcb.lol
+# CherryEmby
+DOMAIN-SUFFIX,cherrytv.one
+# 白浪兔
+DOMAIN-SUFFIX,emby.airpor.top
 
 #以下抄的 https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Emby.list
 

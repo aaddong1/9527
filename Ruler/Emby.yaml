@@ -1,33 +1,39 @@
-payload:
 ##### 自用 #####
-#pornemby vip
-  - DOMAIN-SUFFIX,ii00.cc
+
 #panda
   - DOMAIN-SUFFIX,emby.at
 #ciji
   - DOMAIN-KEYWORD,809688.xyz
-#桃子
-  - DOMAIN-SUFFIX,peachmv.me
-#琴鸟
-  - DOMAIN-KEYWORD,direct.lyrebirdemby
-#MNE
-  - DOMAIN-SUFFIX,film.ohhhh.org
-#MICU Cloud Media
-  - DOMAIN-SUFFIX,tv.micu.hk
-#蛋挞云机场服
-  - DOMAIN-SUFFIX,emby.eggtartcloud.shop
-  - DOMAIN-SUFFIX,vip3.jellyfin.asia
 #misty
   - DOMAIN-SUFFIX,misty.cx
 #叔服
   - DOMAIN-SUFFIX,emby3.mcjoker.xyz
 #cbcb
   - DOMAIN-SUFFIX,emby.cbcb.lol
+#byg
+  - DOMAIN-SUFFIX,byg.955557.xyz
+#飞跃彩虹
+  - DOMAIN-SUFFIX,152.53.19.231
+# ntRRR
+  - DOMAIN-SUFFIX,ntrrr.top
+#琴鸟
+  - DOMAIN-KEYWORD,lyrebirdemby.com
+#misty
+  - DOMAIN-SUFFIX,misty.cx
+#叔服
+  - DOMAIN-SUFFIX,emby3.mcjoker.xyz
+#cbcb
+  - DOMAIN-SUFFIX,emby.cbcb.lol
+# CherryEmby
+  - DOMAIN-SUFFIX,cherrytv.one
+# 白浪兔
+  - DOMAIN-SUFFIX,emby.airpor.top
 
 #以下抄的 https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Emby.list
 
+
 # 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
-# 最后更新时间： 2024-02-15 21:49
+# 最后更新时间： 2024-03-01 22:44
 
 
 ##### A #####
@@ -151,9 +157,7 @@ payload:
 
 # pornemby
   - DOMAIN-SUFFIX,pornemby.club
-  - DOMAIN-SUFFIX,s.ii00.cc
-  - DOMAIN-SUFFIX,us.ii00.cc
-  - DOMAIN-SUFFIX,jp.ii00.cc
+  - DOMAIN-SUFFIX,ii00.cc
 
 # polo
   - DOMAIN-SUFFIX,poloemby.xyz
@@ -301,4 +305,3 @@ payload:
   - DOMAIN-SUFFIX,ohhhh.org
   - DOMAIN-SUFFIX,xmsl.org
   - DOMAIN-SUFFIX,9521732.xyz
-

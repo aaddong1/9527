@@ -96,26 +96,6 @@ dns:
     - https://rubyfish.cn/dns-query
     - https://dns.pub/dns-query
 proxies:
-- name: 频道： https://t.me/jiedianxielou
-  type: ss
-  server: cn00.mynode.me
-  port: 1145
-  cipher: chacha20-ietf
-  password: passwd
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 18202-U55CR7ZN6ajm8UHB.download.microsoft.com
-- name: 群组： https://t.me/jiedianxielou001
-  type: ss
-  server: cn00.mynode.me
-  port: 1419
-  cipher: chacha20-ietf
-  password: passwd
-  plugin: obfs
-  plugin-opts:
-    mode: http
-    host: 18202-U55CR7ZN6ajm8UHB.download.microsoft.com
 - name: TW01
   type: ss
   server: cn00.mynode.me

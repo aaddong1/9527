@@ -5,7 +5,7 @@ DOMAIN-KEYWORD,809688.xyz
 #桃子
 DOMAIN-SUFFIX,peachmv.me
 #panda
-DOMAIN-SUFFIX,emby.at
+DOMAIN-SUFFIX,pdatv.cc
 #pornemby vip
 DOMAIN-KEYWORD,ii00.cc
 #StarCat
@@ -15,7 +15,22 @@ DOMAIN-SUFFIX,20120714.xyz
 #蛋挞
 DOMAIN-SUFFIX,emby.eggtartcloud.shop
 DOMAIN-SUFFIX,vip3.jellyfin.asia
+
 # ccemby
 #DOMAIN,cc.coemn.com
 #DOMAIN-SUFFIX,cc.ccemby.tk
 #DOMAIN-SUFFIX,carryz.net
+
+# ACA & MisakaF
+DOMAIN-SUFFIX,emby.aca.best
+DOMAIN-SUFFIX,porn.aca.best
+DOMAIN-KEYWORD,misakaf.org
+# MisakaF
+DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,cloudfront.net
+#TeCar
+DOMAIN-SUFFIX,carlos.trade
+#垃圾影音
+DOMAIN-SUFFIX,cf.xmsl.org
+#HXD
+DOMAIN-SUFFIX,bili.bili.rip

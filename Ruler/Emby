@@ -1,7 +1,6 @@
 ##### 自用 #####
 
-#panda
-DOMAIN-SUFFIX,emby.at
+
 #ciji
 DOMAIN-KEYWORD,809688.xyz
 #misty
@@ -32,8 +31,9 @@ DOMAIN-SUFFIX,emby.airpor.top
 #以下抄的 https://raw.githubusercontent.com/Repcz/Tool/X/Clash/Rules/Emby.list
 
 
+
 # 来源： https://github.com/MisakaFxxk/MisakaF_Subconverter/blob/main/Sub/Emby.list
-# 最后更新时间： 2024-03-01 22:44
+# 最后更新时间： 2024-05-22 21:46
 
 
 ##### A #####
@@ -68,6 +68,10 @@ DOMAIN-SUFFIX,mius.uk
 
 # Facmata
 DOMAIN-SUFFIX,cinema.facmata.net
+
+# 飞跃彩虹
+DOMAIN-SUFFIX,7777777.buzz
+DOMAIN-SUFFIX,581658.best
 
 ##### G #####
 
@@ -123,6 +127,7 @@ DOMAIN-SUFFIX,emby.lcloud.wiki
 
 # MisakaF
 DOMAIN-SUFFIX,misakaf.org
+DOMAIN-SUFFIX,cloudfront.net
 
 # mjjemby
 DOMAIN-SUFFIX,mjjemby.org

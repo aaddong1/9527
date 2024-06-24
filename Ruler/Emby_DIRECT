@@ -3,24 +3,22 @@
 #ciji
 DOMAIN-KEYWORD,809688.xyz
 #桃子
-DOMAIN-SUFFIX,peachmv.me
+DOMAIN-KEYWORD,peachmv
 #panda
-DOMAIN-SUFFIX,pdatv.cc
+DOMAIN-KEYWORD,pdatv
 #pornemby vip
 DOMAIN-KEYWORD,ii00.cc
 #StarCat
-DOMAIN-SUFFIX,catlinks.co.uk
+DOMAIN-KEYWORD,catlinks
 #Marmot
-DOMAIN-SUFFIX,20120714.xyz
+DOMAIN-KEYWORD,20120714
 #蛋挞
 DOMAIN-SUFFIX,emby.eggtartcloud.shop
 DOMAIN-SUFFIX,vip3.jellyfin.asia
-
 # ccemby
 #DOMAIN,cc.coemn.com
 #DOMAIN-SUFFIX,cc.ccemby.tk
 #DOMAIN-SUFFIX,carryz.net
-
 # ACA & MisakaF
 DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,porn.aca.best
@@ -34,3 +32,11 @@ DOMAIN-SUFFIX,carlos.trade
 DOMAIN-SUFFIX,cf.xmsl.org
 #HXD
 DOMAIN-SUFFIX,bili.bili.rip
+#冰镇西瓜
+DOMAIN-KEYWORD,duanh.top
+#大V影院
+DOMAIN-SUFFIX,viclub.top
+#天南小筑
+DOMAIN-SUFFIX,tnx.one
+#未响
+DOMAIN-SUFFIX,mefun.org
